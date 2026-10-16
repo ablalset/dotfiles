@@ -4,7 +4,7 @@
   },
   "scroll_sensitivity": 1.0,
   "cursor_animation": {
-    "enabled": true
+    "enabled": true,
   },
   "session": {
     "trust_all_worktrees": true
@@ -15,7 +15,7 @@
   },
   "mouse_wheel_zoom": true,
   "minimap": {
-    "show": "always"
+    "show": "auto"
   },
   "cursor_blink": true,
   "buffer_font_family": "JetBrains Mono",
